@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Loans Service"
+  contactDetails:
+    name: "Foo Bar - Lead"
+    email: "foo@gmail.com"
+  onCallSupport:
+    - (502)321-1452
+    - (502)321-2541

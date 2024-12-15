@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+
+accounts:
+  message: "Welcome to NichBank Accounts PROD Service"
+  contactDetails:
+    name: "Nich Mike - PROD Lead"
+    email: "nich@gmail.com"
+    onCallSupport:
+      - (555)555-1222
+      - (555)555-1333

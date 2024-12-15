@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Cards QA Service"
+  contactDetails:
+    name: "Foo Bar - QA Lead"
+    email: "foo@gmail.com"
+  onCallSupport:
+    - (502)321-1452
+    - (502)321-2541

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Cards Service"
+  contactDetails:
+    name: "Foo Bar"
+    email: "foo@gmail.com"
+  onCallSupport:
+    - (502)321-9874
+    - (502)321-9875
