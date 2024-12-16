@@ -3,7 +3,7 @@ build:
 
 
 accounts:
-  message: "Welcome to NichBank Accounts production Service"
+  message: "Welcome to NichBank Accounts PRODUCTION Service"
   contactDetails:
     name: "Nich Mike - PROD Lead"
     email: "{cipher}2f14c751f4b2bdca8f9538edc320d9db9f6288acd0ebb74f6e12ad4a9799cc56"
