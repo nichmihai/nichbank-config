@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Loans Prod Service"
+  message: "Welcome to Loans production Service"
   contactDetails:
     name: "Foo Bar - Lead"
     email: "{cipher}576c2347620515d0635893494038ab892334508f30e7702991a3d49b1e213045"
