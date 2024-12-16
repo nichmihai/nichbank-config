@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to NichBank Accounts Service"
   contactDetails:
     name: "Nich Mike"
-    email: "nich@gmail.com"
+    email: "{cipher}223beb864e58de543cb790bec62ca1aad723629579e0df78b9c8840db1cdb1a3"
     onCallSupport:
       - (555)555-1234
       - (555)555-1345
