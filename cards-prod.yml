@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Cards Prod Service"
+  message: "Welcome to Cards production Service"
   contactDetails:
     name: "peter Griffin = Prod Team"
     email: "{cipher}7e591d91d6e86add6f1fdf69aac83d2808adbff1d900cb90e3478d7eddcb95e72ec04cb8daa456a21be86cfaaae50463"
