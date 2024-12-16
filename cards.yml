@@ -5,7 +5,7 @@ cards:
   message: "Welcome to Cards Service"
   contactDetails:
     name: "Foo Bar"
-    email: "foo@gmail.com"
+    email: "576c2347620515d0635893494038ab892334508f30e7702991a3d49b1e213045"
   onCallSupport:
     - (502)321-9874
     - (502)321-9875
