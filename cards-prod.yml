@@ -5,7 +5,7 @@ cards:
   message: "Welcome to Cards Prod Service"
   contactDetails:
     name: "peter Griffin = Prod Team"
-    email: "griffin@gmail.com"
+    email: "{cipher}7e591d91d6e86add6f1fdf69aac83d2808adbff1d900cb90e3478d7eddcb95e72ec04cb8daa456a21be86cfaaae50463"
   onCallSupport:
     - (502)321-3652
     - (502)321-2563
